@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/CS4412Pj2_MoreSorting_v2.dir/main.cpp.o  -o CS4412Pj2_MoreSorting_v2.exe -Wl,--out-implib,libCS4412Pj2_MoreSorting_v2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

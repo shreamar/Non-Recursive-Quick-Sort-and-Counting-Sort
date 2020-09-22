@@ -1,0 +1,4 @@
+"C:\Users\Amar Shrestha\AppData\Local\JetBrains\CLion2020.2\cygwin_cmake\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/cygdrive/h/Idaho State University/11th Semester (Fall 2020)/CS 4412 (Advanced Algorithm)/Homeworks/HW2/CS4412Pj2-MoreSorting-v2"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /cygdrive/h/Idaho State University/11th Semester (Fall 2020)/CS 4412 (Advanced Algorithm)/Homeworks/HW2/CS4412Pj2-MoreSorting-v2/cmake-build-debug
